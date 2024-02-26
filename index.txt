@@ -132,9 +132,9 @@ WordPress
 
 
 
-# portfolio
+# Projects
 
-Portfolio
+Projects
 
 All
 Web design
